@@ -20,8 +20,3 @@ Django 2.2.19
  In manage.py file execute command:
 
       python3 manage.py runserver
-
- 
-## Author
-
-Oleg Kiselyov
